@@ -1,2 +1,2 @@
-#learn python for test automation
-print ("hello")
+# learn python for test automation
+print("Hellp Python")
